@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="876" height="157" viewBox="0 0 876 157">
+  <g id="Group_3" data-name="Group 3" transform="translate(-1000 295)">
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(1000 -295)" fill="#458e67" stroke="#707070" stroke-width="1">
+      <rect width="876" height="157" rx="16" stroke="none"/>
+      <rect x="0.5" y="0.5" width="875" height="156" rx="15.5" fill="none"/>
+    </g>
+    <text id="Welcome_to_Tennis_Evoque_" data-name="Welcome to Tennis Evoque!" transform="translate(1082 -200)" fill="#458e67" font-size="50" font-family="Poppins-ExtraBold, Poppins" font-weight="800"><tspan x="0" y="0">Welcome to Tennis Evoque!</tspan></text>
+  </g>
+</svg>
